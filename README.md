@@ -1,4 +1,4 @@
-<h12docker-centos-nginx-phpfpm</h2>
+<h2>docker-centos-nginx-phpfpm</h2>
 <pre>
 #Build image 
 1. docker build -t <container_image> .
