@@ -1,6 +1,6 @@
-docker-centos-nginx-phpfpm
-
-#Build image
+<h12docker-centos-nginx-phpfpm</h2>
+<pre>
+#Build image 
 1. docker build -t <container_image> .
 
 #Create container
@@ -8,3 +8,4 @@ docker-centos-nginx-phpfpm
 
 #Start Nginx
 3. docker exec -it <container_name> nginx
+</pre>
